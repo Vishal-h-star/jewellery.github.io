@@ -309,6 +309,21 @@ ul{
 	height:1px;
 	margin:10px 0;
 }
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-size:2em;
+  color:red;
+}
+
+.center a {
+  margin: auto;
+
+  width: 50%;
+   color:red;
+  padding: 10px;
+}
 
 .copyright{
 	text-align:center;
